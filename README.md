@@ -8,9 +8,8 @@ Cybersecurity- �� Currently learning: Spring Boot, MongoDB, and GitHub Actio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## �� GitHub Stats
-![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=glikhitaannamrajucse2305e7-ai&amp;show_icons=true&amp;theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-
-langs/?username=glikhitaannamrajucse2305e7-ai&amp;layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glikhitaannamrajucse2305e7-ai&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glikhitaannamrajucse2305e7-ai&layout=compact)
+
 ## �� Connect with Me- ✉️ Email: glikhitaannamraju_cse2305e7@mgit.ac.in- �� LinkedIn: [Likhita
 Profile]([https://www.linkedin.com/in/likhita-annamraju-2580772b9/])
